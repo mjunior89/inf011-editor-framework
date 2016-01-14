@@ -1,0 +1,8 @@
+*/dist/
+*/build/
+*/build/
+*/private/
+*/.gitignore
+*/nbproject/
+*.mf
+*build.xml
