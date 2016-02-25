@@ -3,6 +3,5 @@
 */build/
 */private/
 */.gitignore
-*/nbproject/
+*private.*
 *.mf
-*build.xml
